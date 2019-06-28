@@ -3,6 +3,7 @@
 	"name": "WAMOD",
 	"version": "1.0.0",
 	"description": "Implementation of GB modes on whatsapp web",
+        "Author":"Tanaka Chinengundu",
 	"content_scripts":[{
 	"css":["css/style.css"],
 	"matches": 
