@@ -7,7 +7,7 @@
 	"content_scripts":[{
 	"css":["css/style.css"],
 	"matches": 
-["https://web.whatsapp.com/*","file:///C:/Users/amurove.KREAMORN/Desktop/(7)%20WhatsApp.html"]
+["https://web.whatsapp.com/*"]
 	}],
 	"icons":{"14":"icon.png","40":"48.png","128":"128.png"},
 	"browser_action":{
