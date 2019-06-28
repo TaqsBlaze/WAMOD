@@ -1,0 +1,15 @@
+{
+	"manifest_version":2,
+	"name": "WAMOD",
+	"version": "1.0.0",
+	"description": "Implementation of GB modes on whatsapp web",
+	"content_scripts":[{
+	"css":["css/style.css"],
+	"matches": 
+["https://web.whatsapp.com/*","file:///C:/Users/amurove.KREAMORN/Desktop/(7)%20WhatsApp.html"]
+	}],
+	"icons":{"14":"icon.png","40":"48.png","128":"128.png"},
+	"browser_action":{
+		"default_icon":"icon.png"
+	}
+}
